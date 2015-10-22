@@ -1,0 +1,3 @@
+If there is something wrong about your commit or push
+
+what should you do to recover the demage before your co-worker get angry?
