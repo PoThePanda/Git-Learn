@@ -13,5 +13,17 @@ command3:
 git reset		<filename>
 remove the file from staging area( the reverse thing compare to git add <filename> )
 
+command4:
+git status
+show what is in the staging area
+
+command5:
+git commit
+make those changes stored. ( you may need git add before your git commit)
+advanced: 
+git commit ¡Vm 	<commit_message>, commit_message is a string
+
+
+
 
 
