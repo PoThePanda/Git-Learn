@@ -1,0 +1,8 @@
+0.	git branch
+顯示目前有哪些branch
+1.	git branch   <branch_name>
+創造一個branch
+2.	git branch –d  <branch_name>
+remove the branch_name
+3.	git checkout   <branch_name>
+切換到指定的branch
