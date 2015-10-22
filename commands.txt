@@ -1,6 +1,17 @@
 10/22
 
 Command 1: 
-git clone URL
+git clone 		<URL>
 Éﬁ	Download all the commits(that is, all the version) of the file specify by URL
 Éﬁ	That is , download the repository to local branch
+
+command 2:
+git add 		<filename>
+add the file into your staging area, a staging area is a place to put things in before you make a commit
+
+command3:
+git reset		<filename>
+remove the file from staging area( the reverse thing compare to git add <filename> )
+
+
+
