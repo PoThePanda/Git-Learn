@@ -1,0 +1,6 @@
+10/22
+
+Command 1: 
+git clone URL
+Éﬁ	Download all the commits(that is, all the version) of the file specify by URL
+Éﬁ	That is , download the repository to local branch
