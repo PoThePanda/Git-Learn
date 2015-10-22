@@ -1,3 +1,20 @@
 i create this txt file in third_branch
 
 and I'm going to use git push origin master
+
+result: nothing is done
+
+C:\Users\peter\Documents\GitHub\Git-Learn[third_branch]> git push origin master
+Everything up-to-date
+
+so i push it to third_branch
+
+C:\Users\peter\Documents\GitHub\Git-Learn [third_branch]> git push origin third_branch
+Counting objects: 6, done.
+Delta compression using up to 4 threads.
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 337 bytes | 0 bytes/s, done.
+Total 3 (delta 1), reused 0 (delta 0)
+To https://github.com/PoThePanda/Git-Learn.git
+   4bab193..33b6a97  third_branch -> third_branch
+
