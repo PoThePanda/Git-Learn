@@ -3,8 +3,10 @@
 1.	git branch       	<branch_name>
 創造一個branch
 2.	git branch –d  	<branch_name>
-remove the branch_name
+remove the branch
 3.	git checkout 	<branch_name>
 切換到指定的branch
-4.	git checkout –b new_branch_name
+4.	git checkout –b 	<new_branch_name>
 it creates a new branch and switch to that branch
+5.	git merge    <branch1>   <branch2>
+usually branch2 is merged into branch1
