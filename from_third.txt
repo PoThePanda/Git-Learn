@@ -18,3 +18,9 @@ Total 3 (delta 1), reused 0 (delta 0)
 To https://github.com/PoThePanda/Git-Learn.git
    4bab193..33b6a97  third_branch -> third_branch
 
+This is because  git push  <remote>  <local_branch> means
+
+you push your commit from  the <local_branch> to <remote>
+
+it doesn't matter which branch you are at
+
