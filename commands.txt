@@ -23,6 +23,12 @@ make those changes stored. ( you may need git add before your git commit)
 advanced: 
 git commit ¡Vm 	<commit_message>, commit_message is a string
 
+command 6:
+git diff
+it will show you the all difference between working directory and staging area,
+different git status, git diff compare the context of each files
+
+
 
 
 
