@@ -11,3 +11,5 @@ and the create_for_merge branch still exist
 
 this is create_for_merge branch!
 
+if you use git merge <branch1> <branch2> 
+remeber to push the commit(auto created by git) to origin , so that the remote can be update
