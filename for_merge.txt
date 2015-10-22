@@ -1,0 +1,4 @@
+i create this .txt file  in create_for_merge branch
+
+and I'm going to run git merge second_branch create_for_merge
+
