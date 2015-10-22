@@ -6,4 +6,8 @@ after  git merge second_branch create_for_merge
 
 this file appears in second_branch
 
+
 and the create_for_merge branch still exist
+
+this is create_for_merge branch!
+
