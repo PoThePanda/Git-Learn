@@ -1,3 +1,4 @@
+
 git reset --soft HEAD~3
 
 this command will let you jump back to HEAD~3
@@ -5,3 +6,4 @@ this command will let you jump back to HEAD~3
 meanwhile move those files chaged at those commands 
 
 back to staging area(unlike --hard, soft won't delete thos files)
+
