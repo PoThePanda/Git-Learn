@@ -1,5 +1,5 @@
 git remote
-the command will show all the remote branch 
+the command will show all the remote branch(remote repository?)
 
 git remote add new_branch_name  URL
 the command will add a new branch with name new_branch_name and reference to the URL
