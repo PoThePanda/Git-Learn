@@ -1,0 +1,13 @@
+git reset filename 
+actually is 
+git reset HEAD filename
+
+and 
+git reset --hard 
+actually is 
+git reset --hard HEAD
+
+the git reset --hard HEAD will discard the files in staging area!
+
+Unlike git reset if only moving files from staging area back to local branch, the git reset --hard will delete those files
+

@@ -1,0 +1,11 @@
+you know why I create this branch?
+
+It's because I checkout to the earlier version commit
+
+and create a new branch from there
+
+so it can go parallel from there rather than HEAD!!
+
+One can also stash their current files and create a branch
+
+to go parallel from HEAD to do some new feature
