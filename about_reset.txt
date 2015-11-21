@@ -1,0 +1,6 @@
+git reset filename 
+will remove the file from staging area
+
+Note: It still exist, Only remove it from staging area
+
+As a result, it go back to your local branch
