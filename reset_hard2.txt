@@ -1,0 +1,9 @@
+git reset --hard HEAD^^
+
+will  reset your files back to the time at commit HEAD^^
+
+all the files you've changed and commit after HEAD^^ are discard(deleted)
+( a little bit like git checkout HEAD^^ , but what makes reset --hard HEAD^^ different is that it deletes all the changes, including commit, and checkout HEAD^^ is temporary jumping back to the commit HEAD^^)
+
+
+so make sure you are really going to delete those before you give this command
