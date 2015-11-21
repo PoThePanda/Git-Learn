@@ -1,0 +1,8 @@
+git remote
+the command will show all the remote branch 
+
+git remote add new_branch_name  URL
+the command will add a new branch with name new_branch_name and reference to the URL
+
+git remote rename old_branch_name new_branch_name
+the command will rename the old_branch with new name
